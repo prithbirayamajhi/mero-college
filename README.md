@@ -1,2 +1,2 @@
 # merocollege-demo
-This is my first fit hub repository
+This is my first git repository
